@@ -1,0 +1,25 @@
+{
+  "name": "知序故事背词",
+  "short_name": "知序背词",
+  "description": "英语学习网站：故事背词、听故事朗读，支持男女中文音色",
+  "lang": "zh-CN",
+  "start_url": "./zhixu_story.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5ef",
+  "theme_color": "#286c49",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
